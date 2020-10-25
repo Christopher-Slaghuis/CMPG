@@ -23,5 +23,12 @@ namespace MovieBookingProgram
             log.Show();
             this.Hide();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Book frmBook = new Book();
+            frmBook.Show();
+            this.Hide();
+        }
     }
 }
