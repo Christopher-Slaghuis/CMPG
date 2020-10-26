@@ -1,0 +1,58 @@
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\bin\Debug\DBTheater.mdf
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\bin\Debug\DBTheater_log.ldf
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe.config
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\bin\Debug\MovieBookingProgram.pdb
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.Properties.Resources.resources
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.exe
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.pdb
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.FrmWelcome.resources
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.LogIn.resources
+C:\Users\User\Desktop\CMPG 223 Group Project\MovieBookingProgram\MovieBookingProgram\obj\Debug\MovieBookingProgram.Admin.resources
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\bin\Debug\DBTheater.mdf
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\bin\Debug\DBTheater_log.ldf
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe.config
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\bin\Debug\MovieBookingProgram.pdb
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.Admin.resources
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.FrmWelcome.resources
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.LogIn.resources
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.Properties.Resources.resources
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.exe
+C:\Users\User\Desktop\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.pdb
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.csprojAssemblyReference.cache
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.Admin.resources
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.FrmWelcome.resources
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.LogIn.resources
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.Properties.Resources.resources
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.GenerateResource.cache
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.CoreCompileInputs.cache
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.exe
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.pdb
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\bin\Debug\DBTheater.mdf
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\bin\Debug\DBTheater_log.ldf
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe.config
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\bin\Debug\MovieBookingProgram.pdb
+D:\User Files\Documents\CMPG 223\Merge Attempts\Attempt 3\CMPG-main\Cmpg Program\MovieBookingProgram\obj\Debug\MovieBookingProgram.Book.resources
+C:\Users\User\Desktop\MovieBookingProgram\bin\Debug\DBTheater.mdf
+C:\Users\User\Desktop\MovieBookingProgram\bin\Debug\DBTheater_log.ldf
+C:\Users\User\Desktop\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe.config
+C:\Users\User\Desktop\MovieBookingProgram\bin\Debug\MovieBookingProgram.exe
+C:\Users\User\Desktop\MovieBookingProgram\bin\Debug\MovieBookingProgram.pdb
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.Admin.resources
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.Book.resources
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.FrmWelcome.resources
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.LogIn.resources
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.Properties.Resources.resources
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.exe
+C:\Users\User\Desktop\MovieBookingProgram\obj\Debug\MovieBookingProgram.pdb
